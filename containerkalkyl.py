@@ -9,7 +9,7 @@ from packed import PackedCalc
 from bulk import BulkCalc
 import sys
 
-# Läs in materialdata från CSV
+# Läs in materialdata från XLSX
 try:
     material_df = pd.read_excel("material.xlsx")
 
