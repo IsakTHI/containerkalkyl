@@ -69,7 +69,7 @@ Rekommenderad: 20ft
 ## Framtida vidareutveckling
 
 - Visualisering av pallplacering  
-- GUI med   
+- GUI  
 - Automatisk prisjämförelse mellan containeralternativ och rederier 
 - Export till PDF eller Excel med kalkyl  
 
