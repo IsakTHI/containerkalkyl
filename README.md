@@ -13,7 +13,7 @@ Ett verktyg för att räkna ut containerbehov vid internationella leveranser av 
 - Automatisk rekommendation av containerstorlek (20ft / 40ft / 40ft HC)  
 - Volym- och viktberäkningar med hänsyn till legala begränsningar  
 - Terminalbaserat gränssnitt  
-- Lämpligt för vidareutveckling t.ex. grafisk visualisering eller API-integration  
+- Lämpligt för vidareutveckling t.ex. grafisk visualiserin
 
 ---
 
@@ -21,11 +21,11 @@ Ett verktyg för att räkna ut containerbehov vid internationella leveranser av 
 
 ```bash
 Containerkalkyl/
-├── material.xlsx               # Lista över material (typ, dimensioner, densitet etc)
-├── main.py                    # Huvudfil som körs
+├── material.xlsx              # Lista över material (typ, dimensioner, densitet etc)
+├── containerkalkyl.py         # Huvudfil som körs
 ├── packed.py                  # Klass för pallar/containerberäkningar
 ├── bulk.py                    # Klass för bulkberäkningar
-└── README.md                  # Dokumentationen (denna fil)
+└── README.md                  # Dokumentationen
 ```
 
 ---
