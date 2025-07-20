@@ -13,7 +13,7 @@ Ett verktyg för att räkna ut containerbehov vid internationella leveranser av 
 - Automatisk rekommendation av containerstorlek (20ft / 40ft / 40ft HC)  
 - Volym- och viktberäkningar med hänsyn till legala begränsningar  
 - Terminalbaserat gränssnitt  
-- Lämpligt för vidareutveckling t.ex. grafisk visualiserin
+- Lämpligt för vidareutveckling t.ex. grafisk visualisering av pallplacering
 
 ---
 
