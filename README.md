@@ -9,7 +9,7 @@ Ett verktyg för att räkna ut containerbehov vid internationella leveranser av 
 ## Funktioner
 
 - Stöd för både bulk och packed material  
-- Inläsning av materialdata från CSV  
+- Inläsning av materialdata från XLSX
 - Automatisk rekommendation av containerstorlek (20ft / 40ft / 40ft HC)  
 - Volym- och viktberäkningar med hänsyn till legala begränsningar  
 - Terminalbaserat gränssnitt  
